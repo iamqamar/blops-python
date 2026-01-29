@@ -1,0 +1,5 @@
+numpy==2.4.1
+packaging==26.0
+pyglet==2.1.12
+setuptools==80.10.2
+wheel==0.46.3
